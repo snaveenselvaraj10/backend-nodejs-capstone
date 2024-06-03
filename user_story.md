@@ -2,7 +2,7 @@
 name: User Story
 about: This template defines a user story
 title: ''
-labels: ''
+labels: 'new,icebox,backlog,technical debt'
 assignees: ''
 
 ---
